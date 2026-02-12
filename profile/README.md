@@ -15,7 +15,7 @@
     &nbsp;&middot;&nbsp;
     <a href="https://www.symbolica.ai/careers"><strong>Work with us</strong></a>
     &nbsp;&middot;&nbsp;
-    <a href="https://agentica.symbolica.ai"><strong>Docs</strong></a>
+    <a href="https://docs.symbolica.ai"><strong>Docs</strong></a>
   </p>
 
   <br/>
